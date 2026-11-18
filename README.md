@@ -4,17 +4,17 @@
 
 [完整详情与最新套餐](https://eoht.net/serve/airport/yinyun) · [机场仓库汇总](https://github.com/vpnshow/airport-summary)
 
-隐云（YinYun）同时提供专属客户端和通用机场订阅，常见叫法包括“YinYun VPN”“隐云梯子”和“隐云机场”。希望自行管理代理节点，可以把通用订阅导入兼容客户端；选择时应先确定使用方式，再比较无限流量、固定流量、静态住宅 IP 和按需定制方案。
-
 > [!NOTE]
 > **30 秒看懂隐云**
 >
-> - **最低门槛**：轻量版月付标价均为 ¥29，首次购买需从季付 ¥81.76 起；专属客户端不限流量，通用订阅为 150GB/月。
-> - **核心特点**：专属客户端与通用订阅双模式，另有独立节点与按需定制；页面列出 IPLC、IEPL 与 BGP 多线路。
-> - **场景选择**：希望直接登录可看专属客户端，熟悉 Clash、Shadowrocket 等软件可比较通用订阅。
+> [访问官网](https://eoht.net/serve/airport/yinyun) · [查看不同模式套餐](#yinyun-vpn-plans) · [查看历史测试图](#yinyun-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
 >
-> [查看不同模式套餐](#yinyun-vpn-plans) · [查看历史测试图](#yinyun-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
+> - **首次付款**：轻量版月付标价 ¥29，首次购买需从季付 ¥81.76 起。
+> - **两种方式**：专属客户端不限流量；通用订阅为 150GB/月，可导入兼容客户端。
+> - **线路选择**：页面列有 IPLC、IEPL 与 BGP，另有独立节点和按需定制方案。
 >
+
+隐云（YinYun）同时提供专属客户端和通用机场订阅，常见叫法包括“YinYun VPN”“隐云梯子”和“隐云机场”。希望自行管理代理节点，可以把通用订阅导入兼容客户端；选择时应先确定使用方式，再比较无限流量、固定流量、静态住宅 IP 和按需定制方案。
 
 <a id="yinyun-official-website"></a>
 
